@@ -1,5 +1,7 @@
-# README
-##"hello,world!"
-this is the first application for the
-[*Ruby on Rails tutorial*](http://railstutorial.jp/)
-by [Micael Hartl](http://www.mivhaelhartl.com/).Hello,world!
+# Ruby on Rails Tutorial
+
+## "hello, world!"
+
+This is the first application for the
+[*Ruby on Rails Tutorial*](http://railstutorial.jp/)
+by [Michael Hartl](http://www.michaelhartl.com/). Hello, world!
